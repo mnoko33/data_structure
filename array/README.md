@@ -27,4 +27,6 @@
 
 # Double Linked List
 
+기존의 링크드리스트의 경우 노드들이 다음 노드의 참조를 가지고 있지만 더블 링크드 리스트의 경우 `다음과 이전 노드의 참조`를 가지고 있다.
+
 # Circular Linked List
